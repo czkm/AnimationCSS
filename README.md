@@ -1,6 +1,10 @@
 # animation
 
 > A Vue.js project
+[浏览](https://czkm.github.io/Animationdist/)
+
+##### 移动端浏览
+<div align=center><img src="https://raw.githubusercontent.com/czkm/img-folder/master/qrcode.png"/ ></div>
 
 ## Build Setup
 
